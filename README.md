@@ -1,4 +1,3 @@
 # FlatListGif
 Example react-native
-Render about 100 gif item with Flatlist
-using react-native-fast-image
+Render 100 gif items with react-native-fast-image and FlatList
